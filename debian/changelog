@@ -1,5 +1,5 @@
-droidian-sysfs-torch (0.0.3) bookworm; urgency=medium
+droidian-sysfs-torch (0.0.4) bookworm; urgency=medium
 
-  * rebrand to lavender
+  * adapt to sargo
 
- -- Bardia Moshiri <fakeshell@bardia.tech>  Sun, 22 Jan 2023 08:50:40 +0330
+ -- Bardia Moshiri <fakeshell@bardia.tech>  Thu, 26 Jan 2023 20:50:40 +0330
